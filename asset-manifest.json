@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/WordCalci/static/css/main.e6c13ad2.css",
+    "main.js": "/WordCalci/static/js/main.c167d90f.js",
+    "static/js/787.719ec76d.chunk.js": "/WordCalci/static/js/787.719ec76d.chunk.js",
+    "index.html": "/WordCalci/index.html",
+    "main.e6c13ad2.css.map": "/WordCalci/static/css/main.e6c13ad2.css.map",
+    "main.c167d90f.js.map": "/WordCalci/static/js/main.c167d90f.js.map",
+    "787.719ec76d.chunk.js.map": "/WordCalci/static/js/787.719ec76d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c167d90f.js"
+  ]
+}
